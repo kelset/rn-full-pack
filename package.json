@@ -3,10 +3,19 @@
   "displayName": "RN Full Pack",
   "description":
     "An opinionated & well-rounded set of extensions to be up-and-running right away with React Native",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "kelset",
+  "author": "Lorenzo Sciandra <@kelset>",
+  "galleryBanner": {
+    "color": "#00a7d3",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelset/rn-full-pack.git"
   },
   "categories": ["Extension Packs"],
   "extensionDependencies": [
@@ -26,7 +35,6 @@
     "formulahendry.auto-rename-tag",
     "mgmcdermott.vscode-language-babel",
     "ms-vscode.atom-keybindings",
-    "ms-vscode.azure-account",
     "naumovs.color-highlight",
     "streetsidesoftware.code-spell-checker",
     "vsmobile.vscode-react-native",
