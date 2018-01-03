@@ -1,0 +1,38 @@
+{
+  "name": "rn-full-pack",
+  "displayName": "RN Full Pack",
+  "description":
+    "An opinionated & well-rounded set of extensions to be up-and-running right away with React Native",
+  "version": "0.0.1",
+  "publisher": "kelset",
+  "engines": {
+    "vscode": "^1.19.0"
+  },
+  "categories": ["Extension Packs"],
+  "extensionDependencies": [
+    "2gua.rainbow-brackets",
+    "DavidAnson.vscode-markdownlint",
+    "Shan.code-settings-sync",
+    "alexdima.copy-relative-path",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "cssho.vscode-svgviewer",
+    "dbaeumer.vscode-eslint",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "flowtype.flow-for-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "mgmcdermott.vscode-language-babel",
+    "ms-vscode.atom-keybindings",
+    "ms-vscode.azure-account",
+    "naumovs.color-highlight",
+    "streetsidesoftware.code-spell-checker",
+    "vsmobile.vscode-react-native",
+    "waderyan.gitblame",
+    "wayou.vscode-todo-highlight",
+    "wmaurer.change-case",
+    "yzhang.markdown-all-in-one"
+  ]
+}
