@@ -1,13 +1,13 @@
 {
   "name": "rn-full-pack",
-  "displayName": "RN Full Pack",
+  "displayName": "React Native - Full Pack",
   "description":
-    "An opinionated & well-rounded set of extensions to be up-and-running right away with React Native",
-  "version": "0.0.2",
+    "An opinionated & well-rounded set of extensions to be up-and-running with React Native",
+  "version": "0.1.0",
   "publisher": "kelset",
   "author": "Lorenzo Sciandra <@kelset>",
   "galleryBanner": {
-    "color": "#00a7d3",
+    "color": "#2f67a9",
     "theme": "dark"
   },
   "engines": {
@@ -17,6 +17,12 @@
     "type": "git",
     "url": "https://github.com/kelset/rn-full-pack.git"
   },
+  "keywords": ["react-native"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelset/rn-full-pack/issues"
+  },
+  "icon": "icon.png",
   "categories": ["Extension Packs"],
   "extensionDependencies": [
     "2gua.rainbow-brackets",
