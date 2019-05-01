@@ -1,9 +1,8 @@
 {
   "name": "rn-full-pack",
   "displayName": "React Native - Full Pack",
-  "description":
-    "An opinionated & well-rounded set of extensions to be up-and-running with React Native",
-  "version": "0.1.0",
+  "description": "An opinionated & well-rounded set of extensions to be up-and-running with React Native",
+  "version": "0.2.0",
   "publisher": "kelset",
   "author": "Lorenzo Sciandra <@kelset>",
   "galleryBanner": {
@@ -17,18 +16,20 @@
     "type": "git",
     "url": "https://github.com/kelset/rn-full-pack.git"
   },
-  "keywords": ["react-native"],
+  "keywords": [
+    "react-native"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kelset/rn-full-pack/issues"
   },
   "icon": "icon.png",
-  "categories": ["Extension Packs"],
+  "categories": [
+    "Extension Packs"
+  ],
   "extensionDependencies": [
-    "2gua.rainbow-brackets",
-    "DavidAnson.vscode-markdownlint",
+    "coenraads.bracket-pair-colorizer",
     "Shan.code-settings-sync",
-    "alexdima.copy-relative-path",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "cssho.vscode-svgviewer",
@@ -46,6 +47,8 @@
     "waderyan.gitblame",
     "wayou.vscode-todo-highlight",
     "wmaurer.change-case",
-    "yzhang.markdown-all-in-one"
+    "davidanson.vscode-markdownlint",
+    "jasonnutter.search-node-modules",
+    "dsznajder.es7-react-js-snippets"
   ]
 }
