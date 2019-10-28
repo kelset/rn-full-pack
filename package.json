@@ -27,7 +27,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionDependencies": [
+  "extensionPack": [
     "coenraads.bracket-pair-colorizer",
     "Shan.code-settings-sync",
     "christian-kohler.npm-intellisense",
