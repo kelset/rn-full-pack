@@ -4,6 +4,11 @@ All notable changes to the "rn-full-pack" extension pack will be documented in t
 
 ---
 
+## [0.5.0]
+
+- Update bracket-pair-colorizer version, thanks @KarinaBauer
+- Change extensionDependencies to extensionPack, thanks @chakrihacker
+
 ## [0.3.0/0.4.0]
 
 Literally same as 0.2, just had issues publishing.
