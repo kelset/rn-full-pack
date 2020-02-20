@@ -4,7 +4,9 @@ All notable changes to the "rn-full-pack" extension pack will be documented in t
 
 ---
 
-## [0.5.0]
+## [0.5.0/0.6.0/0.7.0]
+
+(as always I'm bad at [this](https://code.visualstudio.com/api/working-with-extensions/publishing-extension))
 
 - Update bracket-pair-colorizer version, thanks @KarinaBauer
 - Change extensionDependencies to extensionPack, thanks @chakrihacker
