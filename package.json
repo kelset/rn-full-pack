@@ -5,6 +5,9 @@
   "version": "0.4.0",
   "publisher": "kelset",
   "author": "Lorenzo Sciandra <@kelset>",
+  "contributors": [
+    "Karina Shedlbauer <k@rina.wtf> (https://ka.rina.wtf)"
+  ],
   "galleryBanner": {
     "color": "#2f67a9",
     "theme": "dark"
@@ -28,7 +31,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "coenraads.bracket-pair-colorizer",
+    "coenraads.bracket-pair-colorizer-2",
     "Shan.code-settings-sync",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
