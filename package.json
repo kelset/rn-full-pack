@@ -2,7 +2,7 @@
   "name": "rn-full-pack",
   "displayName": "React Native - Full Pack",
   "description": "An opinionated & well-rounded set of extensions to be up-and-running with React Native",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "kelset",
   "author": "Lorenzo Sciandra <@kelset>",
   "contributors": [
