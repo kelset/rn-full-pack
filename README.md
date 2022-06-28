@@ -1,8 +1,10 @@
-# README
+# React Native - Full Pack
 
-This is pack contains all the extensions I use to develop React Native applications with VSCode, which I described in length on my [article on Medium](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce).
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) ![Twitter Follow](https://img.shields.io/twitter/follow/kelset?style=social)
 
-Here's the full list of packages it comprehends:
+This is pack contains all the extensions I use to develop React Native applications with VSCode, which I described in length on my [article on Medium](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce). *(note well: quite some time has passed since then, so the list might have changed)*
+
+## List of extensions includes
 
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
@@ -22,11 +24,9 @@ Here's the full list of packages it comprehends:
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2)
-- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Kotlin Language](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
-## Enjoy!
-
-_if you have any feedback feel free to reach out to me [on twitter](https://twitter.com/Kelset)_
+## Happy coding!
