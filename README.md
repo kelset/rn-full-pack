@@ -29,4 +29,11 @@ This is pack contains all the extensions I use to develop React Native applicati
 - [Kotlin Language](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
+
+## Contributing
+
+Contributions are welcome, but you need to justify why you'd want to add or remove an extension from this pack in the PR body :) Please be as detailed as possible in explaining your reasoning.
+
+I'll handle the [publishing step](https://code.visualstudio.com/api/working-with-extensions/publishing-extension).
+
 ## Happy coding!
