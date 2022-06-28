@@ -31,8 +31,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "coenraads.bracket-pair-colorizer-2",
-    "Shan.code-settings-sync",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "cssho.vscode-svgviewer",
@@ -52,6 +50,8 @@
     "wmaurer.change-case",
     "davidanson.vscode-markdownlint",
     "jasonnutter.search-node-modules",
-    "dsznajder.es7-react-js-snippets"
+    "yzhang.markdown-all-in-one",
+    "mathiasfrohlich.Kotlin",
+    "pnp.polacode"
   ]
 }
