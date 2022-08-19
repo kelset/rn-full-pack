@@ -1,6 +1,12 @@
 # React Native - Full Pack
 
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) ![Twitter Follow](https://img.shields.io/twitter/follow/kelset?style=social)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen) 
+<a href="https://github.com/kelset?tab=followers">
+    <img src="https://img.shields.io/github/followers/kelset?label=Follow%20%40kelset&style=social" />
+  </a>
+  <a href="https://twitter.com/kelset">
+    <img src="https://img.shields.io/twitter/follow/kelset?label=Follow%20%40kelset&style=social" />
+  </a>
 
 This is pack contains all the extensions I use to develop React Native applications with VSCode, which I described in length on my [article on Medium](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce). *(note well: quite some time has passed since then, so the list might have changed)*
 
