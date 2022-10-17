@@ -31,16 +31,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "christian-kohler.npm-intellisense",
-    "christian-kohler.path-intellisense",
     "cssho.vscode-svgviewer",
     "dbaeumer.vscode-eslint",
-    "eg2.vscode-npm-script",
     "esbenp.prettier-vscode",
     "flowtype.flow-for-vscode",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-complete-tag",
-    "formulahendry.auto-rename-tag",
     "mgmcdermott.vscode-language-babel",
     "naumovs.color-highlight",
     "streetsidesoftware.code-spell-checker",

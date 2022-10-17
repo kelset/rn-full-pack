@@ -4,6 +4,10 @@ All notable changes to the "rn-full-pack" extension pack will be documented in t
 
 ---
 
+## 1.1.0
+
+Removing some packages that are not needed anymore - see [this blogpost](https://javascript.plainenglish.io/10-visual-studio-code-extensions-you-dont-need-6f7904132a57) for more details.
+
 ## 1.0.0
 
 Moving this extension package to 1.0.
