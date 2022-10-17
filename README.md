@@ -35,4 +35,10 @@ Contributions are welcome, but you need to justify why you'd want to add or remo
 
 I'll handle the [publishing step](https://code.visualstudio.com/api/working-with-extensions/publishing-extension).
 
+Which should consist of:
+
+- `vsce login kelset`
+- `npm version <major|minor|etc>`
+- `vsce publish`
+
 ## Happy coding!
